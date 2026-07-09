@@ -75,7 +75,7 @@ The core of Cerberus operates on a synchronous data pipeline driven by modular a
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cerberus-chart-oracle.git
+git clone https://github.com/CerberusMrX/cerberus-chart-oracle.git
 cd "Cerberus Chart Oracle"
 
 # Set up virtual environment
