@@ -1,4 +1,27 @@
 <div align="center">
+
+<img src="https://img.shields.io/badge/🚧%20PROJECT%20STATUS-UNDER%20MAINTENANCE-orange?style=for-the-badge" alt="Under Maintenance">
+
+<br>
+
+<h2>🚧 Project Under Maintenance 🚧</h2>
+
+<p>
+This project is currently undergoing major improvements, bug fixes, performance optimizations,
+and feature enhancements.
+</p>
+
+<p>
+⚠️ Some features may be unstable or temporarily unavailable.
+</p>
+
+<p>
+Thank you for your patience and support.
+</p>
+
+</div>
+
+<div align="center">
   <img src="assets/hero.png" alt="Cerberus Chart Oracle Hero" width="800">
   <h1>⚡ CERBERUS CHART ORACLE: GODCORE ⚡</h1>
   <p><b>The Ultimate Multi-Agent Financial Intelligence Swarm</b></p>
